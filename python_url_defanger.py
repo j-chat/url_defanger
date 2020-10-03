@@ -2,7 +2,7 @@
 This script is to be executed in an IDE such as Spyder, PyCharm, etc. for Python 3
 
 ARGUMENTS:
-  user will past the url through console after colon
+  url: user will paste the url through console after colon
   
  OUTPUTS:
   a defang url in the form of hxxp[:]//somedomain
